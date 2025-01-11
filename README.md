@@ -12,7 +12,7 @@
   <a href="https://github.com/LawnchairLauncher/lawnicons/actions/workflows/build_release_apk.yml">
     <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/LawnchairLauncher/lawnicons/build_release_apk.yml?label=Build%20Release%20APK&logo=github">
   </a>
-  <a h ref="https://discord.gg/3x8qNWxgGZ">
+  <a href="https://discord.gg/3x8qNWxgGZ">
     <img alt="Discord" src="https://img.shields.io/discord/803299970169700402?logo=discord&logoColor=white&label=Discord&color=5165f6">
   </a>    
 
@@ -33,7 +33,7 @@ Lawnicons is best used [on the latest version of Lawnchair](https://play.google.
   <a href="https://apt.izzysoft.de/fdroid/index/apk/app.lawnchair.lawnicons">
     <img src="docs/images/badge-izzyondroid.png" alt="Get it on IzzyOnDroid" height="60" />
   </a>
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/LawnchairLauncher/lawnicons/">
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/LawnchairLauncher/lawnicons">
     <img src="docs/images/badge-obtainium.png" alt="Get it on Obtainium" height="60" />
   </a>
   <a href="https://github.com/LawnchairLauncher/lawnicons/releases/latest">
@@ -51,6 +51,6 @@ Please see our guidelines for information on contributing icons or code, it will
 [Lawnicons guidelines](CONTRIBUTING.md) • [Icon samples in Figma](https://www.figma.com/community/file/1227718471680779613) • [Popular icon requests](https://docs.google.com/spreadsheets/d/1AXc9EDXA6udZeGROtB5nuABjM33VluGY_V24tIzHaKc/edit?resourcekey=&gid=609680142#gid=609680142) • [Development issues](https://github.com/LawnchairLauncher/lawnicons/issues)
 
 ## Requesting icons
-`Open Lawnicons 2.10+ → Tap "Request icons" → Submit the response`
+[Icon request form](https://forms.gle/nR4ozeeJBKrLwGfk6) • [Report outdated icons](https://github.com/LawnchairLauncher/lawnicons/issues/new?assignees=&labels=icon+update&projects=&template=icon_rebrand.yml)
 
-[Icon request form](https://forms.gle/xt7sJhgWEasuo9TR9) • [Report outdated icons](https://github.com/LawnchairLauncher/lawnicons/issues/new?assignees=&labels=icon+update&projects=&template=icon_rebrand.yml)
+<!-- `Open Lawnicons 2.13+ → Tap "Request icons" → Submit the response` -->
